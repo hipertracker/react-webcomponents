@@ -11,7 +11,10 @@ class CustomElement extends HTMLElement {
     mountPoint: any
     // componentAttributes = {}; // TODO: add example of usage
     // componentProperties = {}; // TODO: add example of usage
+    constructor() {
+        super();
 
+    }
     connectedCallback() {
         this.update();
     }
