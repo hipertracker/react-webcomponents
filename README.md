@@ -1,6 +1,6 @@
-# react-webcomponenrs-playbooks
+# react-webcomponents
 
-Example of using React and/or wrapped as Webcomponent
+Example of using React wrapped as Webcomponent
 
 Install [Parcel](https://parceljs.org/getting_started.html) and run
 
